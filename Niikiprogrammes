@@ -1,0 +1,208 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <img src="img_computerdesk.jpg" alt="computer">
+  <title>Tenika Powell-Web Dev</title>
+<link rel="stylesheet" href="css/index.css">
+<meta `content="width=device-width, initial-scale=1"`>
+
+  <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+  <![endif]-->
+ https://html5up.net/miniport]">
+</head>
+
+<body>
+  <h1>My Resume</h1>
+  <h3>The Life of A WEb Dev Beginner!</h3>
+
+  <nav class="clear">
+    <ul>
+     <li><a href="box1">Home</a>
+     <li><a href="box3">Anout</a>
+     <li><a href="box3">Profolio</a>
+     <li><a href="box4">Contact</a>
+     </ul>
+  </nav>
+
+  <div class="This Is It!"></div>
+  <article>
+    <h2>Listen Up!</h2>
+    <p> 
+       I currently attend Lambda School where i am studying to 
+       be a Software Engineer.
+       Start Date: July 2019
+       End Date:   December 2020 
+       Ive been wanting to join the Technology Rollercoaster 
+       for about 4 years. I knew what i wanted to do, I just needed to 
+       be at the right place at the right time. And that day came 
+       quicker than i thought it would. You'd think waiting for years
+       for the right opportunity would be crazy, but for me its all the 
+       time i needed. When i applied at Lambda it seemed as if i only
+       waited a day. Today, I am exactly where i want to be in life, I know 
+       which company i want to work for and where i'd like to relocate.
+       This Is it!
+    </p>
+        <h4>Stuff i'm Good At:</h4>
+    <table style="width:100%">
+      <tr>
+        <th>HTML Semantics</th>
+        <th>Swimming</th>
+        <th>Writing</th>
+        <th>Researching</th>
+      </tr>
+    </table>
+         
+      <h5>Education History</h5>
+    <table style="align-items: stretch">
+        <tr>
+           <th>Yrs</th>
+           <th>School</th>
+           <th>Degree</th>
+           </tr>
+
+        <tr>
+          <th>1.2</th>
+          <th>1.2</th>
+          <th>.1</th>
+        </tr>
+        <tr>
+          <th>Penn Foster</th>
+          <th>Penn Foster</th>
+          <th>Lambda School</th>
+        </tr>
+        <tr>
+          <th>Diploma</th>
+          <th>Computer Infromation Systems</th>
+          <th> FullStack Web Development</th>
+        </tr>
+    </table>
+    
+    <footer>
+          <p> Posted by: Tenika Powell </p>
+          <p>Contact Information:
+          <a href="Mailto: reachformestar24@gmail.com">
+            <reachformestar24@gmail class="com"></a>
+            </p>
+
+
+
+    </footer>
+ 
+ 
+
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <img src="img_computerdesk.jpg" alt="computer">
+  <title>Tenika Powell-Web Dev</title>
+<link rel="stylesheet" href="css/index.css">
+<meta `content="width=device-width, initial-scale=1"`>
+
+  <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+  <![endif]-->
+ https://html5up.net/miniport]">
+</head>
+
+<body>
+  <h1>My Resume</h1>
+  <h3>The Life of A WEb Dev Beginner!</h3>
+
+  <nav class="clear">
+    <ul>
+     <li><a href="box1">Home</a>
+     <li><a href="box3">Anout</a>
+     <li><a href="box3">Profolio</a>
+     <li><a href="box4">Contact</a>
+     </ul>
+  </nav>
+
+  <div class="This Is It!"></div>
+  <article>
+    <h2>Listen Up!</h2>
+    <p> 
+       I currently attend Lambda School where i am studying to 
+       be a Software Engineer.
+       Start Date: July 2019
+       End Date:   December 2020 
+       Ive been wanting to join the Technology Rollercoaster 
+       for about 4 years. I knew what i wanted to do, I just needed to 
+       be at the right place at the right time. And that day came 
+       quicker than i thought it would. You'd think waiting for years
+       for the right opportunity would be crazy, but for me its all the 
+       time i needed. When i applied at Lambda it seemed as if i only
+       waited a day. Today, I am exactly where i want to be in life, I know 
+       which company i want to work for and where i'd like to relocate.
+       This Is it!
+    </p>
+        <h4>Stuff i'm Good At:</h4>
+    <table style="width:100%">
+      <tr>
+        <th>HTML Semantics</th>
+        <th>Swimming</th>
+        <th>Writing</th>
+        <th>Researching</th>
+      </tr>
+    </table>
+         
+      <h5>Education History</h5>
+    <table style="align-items: stretch">
+        <tr>
+           <th>Yrs</th>
+           <th>School</th>
+           <th>Degree</th>
+           </tr>
+
+        <tr>
+          <th>1.2</th>
+          <th>1.2</th>
+          <th>.1</th>
+        </tr>
+        <tr>
+          <th>Penn Foster</th>
+          <th>Penn Foster</th>
+          <th>Lambda School</th>
+        </tr>
+        <tr>
+          <th>Diploma</th>
+          <th>Computer Infromation Systems</th>
+          <th> FullStack Web Development</th>
+        </tr>
+    </table>
+    
+    <footer>
+          <p> Posted by: Tenika Powell </p>
+          <p>Contact Information:
+          <a href="Mailto: reachformestar24@gmail.com">
+            <reachformestar24@gmail class="com"></a>
+            </p>
+
+
+
+    </footer>
+ 
+ 
+
+
+</body>
+
+</html>
