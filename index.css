@@ -1,0 +1,125 @@
+element.style{
+    background-color: none;
+   }
+   .panel > .intro.joined {
+           width: 18.5rem;
+           padding-right: 0;
+   }
+   
+   
+   .gallery .image img {
+       -moz-transition: -moz-transform 0.2s ease-in-out;
+       -webkit-transition: -webkit-transform 0.2s ease-in-out;
+       -ms-transition: -ms-transform 0.2s ease-in-out;
+       transition: transform 0.2s ease-in-out;
+   }
+   .image[data-position="top"] img {
+       -moz-object-position: top;
+       -webkit-object-position: top;
+       -ms-object-position: top;
+       object-position: top;
+   }
+   .image[data-position] img {
+       -moz-object-fit: cover;
+       -webkit-object-fit: cover;
+       -ms-object-fit: cover;
+       object-fit: cover;
+       display: block;
+       position: absolute;
+       top: 0;
+       left: 0;
+       width: 100%;
+       height: 100%;
+   }
+   .image img {
+       display: block;
+   }
+   html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+       margin: 0;
+       padding: 0;
+       border: 0;
+       font-size: 100%;
+       font: inherit;
+       vertical-align: baseline;
+   }
+   *, *:before, *:after {
+       box-sizing: inherit;
+   }
+   a {
+       -moz-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
+       -webkit-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
+       -ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
+       transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
+       color: inherit;
+       border-bottom: dotted 1px;
+       text-decoration: none;
+   }
+   user agent stylesheet
+   a:-webkit-any-link {
+       color: -webkit-link;
+       cursor: pointer;
+   }
+   #wrapper {
+       display: -moz-flex;
+       display: -webkit-flex;
+       display: -ms-flex;
+       display: flex;
+       -moz-flex-direction: row;
+       -webkit-flex-direction: row;
+       -ms-flex-direction: row;
+       flex-direction: row;
+       -moz-transition: opacity 1s ease-out, -moz-transform 0.75s ease-out;
+       -webkit-transition: opacity 1s ease-out, -webkit-transform 0.75s ease-out;
+       -ms-transition: opacity 1s ease-out, -ms-transform 0.75s ease-out;
+       transition: opacity 1s ease-out, transform 0.75s ease-out;
+       -moz-transition-delay: 0.25s;
+       -webkit-transition-delay: 0.25s;
+       -ms-transition-delay: 0.25s;
+       transition-delay: 0.25s;
+       cursor: default;
+       position: relative;
+       height: 32rem;
+       box-shadow: 0 2rem 4rem 0.25rem rgba(46, 43, 55, 0.575);
+   }
+   body, input, select, textarea {
+       color: rgba(255, 255, 255, 0.75);
+       font-family: "Source Sans Pro", Helvetica, sans-serif;
+       font-size: 1rem;
+       font-weight: 300;
+       line-height: 1.65;
+   }
+   body {
+       -webkit-text-size-adjust: none;
+   }
+   body {
+       line-height: 1;
+   }
+   @media screen and (max-width: 1280px) {
+    html {
+       font-size: 11pt;
+       font-size: 1.5vmax;
+   }
+   
+   @media screen and (max-width: 1680px) {
+    html{
+       font-size: 12pt;
+       font-size: 1.1vmax;
+   }
+   html {
+       font-size: 18pt;
+       font-size: 1vmax;
+   }
+   user agent stylesheet
+   html {
+       color: -internal-root-color;
+   }
+   *, *:before, *:after {
+       box-sizing: inherit;
+   }
+   
+   *, *:before, *:after {
+       box-sizing: inherit;
+   }
+   
+   
+   
